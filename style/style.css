@@ -1,0 +1,171 @@
+/* main styles */
+.main{
+    display: flex;
+    flex-direction:row-reverse;
+    width: 1500px;
+    margin-left: 0 auto; 
+}
+.main_content{
+    margin-left: 10px;
+    box-shadow: 6px 6px 20px black;
+    padding: 105px 90px;
+}
+.about_user{
+    color:white;
+    font-size: larger;
+    margin-bottom: 40px;
+}
+.about_position{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+.about_name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 55px;
+    margin-bottom: 25px;
+}
+.about_description{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+}
+.projects{
+margin-top: 66px;
+margin-left: 10px;
+margin-bottom: 66px;
+margin-right: 50px;
+}
+.project{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project_item{
+    color: red;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    /* margin-bottom: 10px; */
+}
+body{
+    background-image: url(/resume/img/background.gif);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+}
+.company1{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+.title{
+    color:rgb(0, 195, 255);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+.sidebar{
+    color:white;
+    padding-top: 40px;
+}
+.imagek{
+    margin-bottom: 50px;
+}
+.sidebar_title{
+   color: floralwhite;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 22px;
+   line-height: 27px; 
+   margin-bottom: 10px;
+}
+.contacts{
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+.tech_skills{
+    margin-left: 40px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.contact_type{
+    font-style: normal;
+   font-weight: bold;
+   font-size: 14px;
+   line-height: 24px;
+   margin-right: 10px;
+}
+.contact_link{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+.techskills_list{
+    color: white;
+    padding: 0;
+    margin-left: 30px;
+}
+.soft_skills{
+    margin-left: 5px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.techskills_text{
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.techskills_item{
+    color: red;
+}
+.softskills_list{
+    color: rgb(240, 8, 8);
+    padding: 0;
+    margin-left: 25px;
+}
+.softskills_text{
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.resize{
+    margin: 0;
+}
+.firstjob{
+    color: orangered;
+    font-size: x-large;
+}
+.work_position{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px; 
+}
+.work_list{
+    padding: 0px;
+    margin-left: 15px;
+}
+.work_list2{
+    padding: 0px;
+    margin-left: 15px;
+}
+.work_list3{
+    padding: 0px;
+    margin-left: 15px;
+}
