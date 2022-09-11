@@ -57,7 +57,7 @@ margin-right: 50px;
     /* margin-bottom: 10px; */
 }
 body{
-    background-image: url(/resume/img/background.gif);
+    background-image: url(/img/background.gif);
     background-repeat: no-repeat, repeat;
     background-size: cover;
     background-position: center;
